@@ -1,0 +1,19 @@
+var NAVTREEINDEX4 =
+{
+"namespaces.html":[0,0],
+"pages.html":[],
+"structBrickSettings.html":[1,0,7],
+"structHydroUnitPropertyDouble.html":[1,0,25],
+"structHydroUnitPropertyString.html":[1,0,26],
+"structHydroUnitSettings.html":[1,0,27],
+"structLandCoverSettings.html":[1,0,31],
+"structLateralConnectionSettings.html":[1,0,32],
+"structModelStructure.html":[1,0,36],
+"structOutputSettings.html":[1,0,40],
+"structProcessSettings.html":[1,0,63],
+"structSolverSettings.html":[1,0,78],
+"structSplitterSettings.html":[1,0,82],
+"structSurfaceComponentSettings.html":[1,0,87],
+"structTime.html":[1,0,88],
+"structTimerSettings.html":[1,0,90]
+};
