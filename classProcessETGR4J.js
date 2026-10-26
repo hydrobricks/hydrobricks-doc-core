@@ -1,0 +1,7 @@
+var classProcessETGR4J =
+[
+    [ "AttachForcing", "classProcessETGR4J.html#ad6015f9db23ceee4845461ccc83975bf", null ],
+    [ "GetRates", "classProcessETGR4J.html#a1505242e7c2ac42144223fd207ea35c4", null ],
+    [ "IsValid", "classProcessETGR4J.html#a98b1b604e5667b6805bea08f2fbc76e2", null ],
+    [ "RequiresDailyTimeStep", "classProcessETGR4J.html#adcbd09395aeadf0d320eec4fd2ccbdbe", null ]
+];
