@@ -1,0 +1,27 @@
+var NAVTREEINDEX6 =
+{
+"structBrickSettings.html":[1,0,7],
+"structChannelRoutingSettings.html":[1,0,8],
+"structCliArgs.html":[1,0,9],
+"structHydroUnitPropertyDouble.html":[1,0,26],
+"structHydroUnitPropertyString.html":[1,0,27],
+"structHydroUnitSettings.html":[1,0,28],
+"structLandCoverSettings.html":[1,0,33],
+"structLateralConnectionSettings.html":[1,0,34],
+"structLogFile_1_1Impl.html":[1,0,35,0],
+"structModelStructure.html":[1,0,41],
+"structOutputSettings.html":[1,0,45],
+"structProcessSettings.html":[1,0,101],
+"structProcessor_1_1DirectBrickEntry.html":[1,0,77,0],
+"structProcessor_1_1DirectProcess.html":[1,0,77,1],
+"structProcessor_1_1DirectUnitEntry.html":[1,0,77,2],
+"structProcessor_1_1SolvableBrickEntry.html":[1,0,77,3],
+"structProcessor_1_1SolvableProcess.html":[1,0,77,4],
+"structReach_1_1RoutingState.html":[1,0,109,0],
+"structSolverSettings.html":[1,0,127],
+"structSplitterSettings.html":[1,0,131],
+"structSubbasinSettings.html":[1,0,137],
+"structSurfaceComponentSettings.html":[1,0,139],
+"structTime.html":[1,0,140],
+"structTimerSettings.html":[1,0,142]
+};
